@@ -7,5 +7,4 @@
 - 💬 Ask me about Computer Software related issue.
 - 📫 How to reach me: hrfprofessional@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to work playing background music.
--->
+- ⚡ Fun fact: I love to work and listen music at the same time.
