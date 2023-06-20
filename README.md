@@ -77,9 +77,9 @@ Present an in-depth explanation of the project, focusing on its goals, standout 
 
 # Education
 
-#### [North South University](http://www.northsouth.edu/) (01/2023 - Ongoing)
+#### [North South University](http://www.northsouth.edu/) (01/2019 - Ongoing)
 
-**Bachelor of Science in Computer Science & Engineering**
+*__Bachelor of Science in Computer Science & Engineering__*
 
 Relevant coursework:
 
