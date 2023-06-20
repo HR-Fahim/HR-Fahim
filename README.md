@@ -87,7 +87,7 @@ Relevant coursework:
 - Algorithms
 - Web Development
 - Database Systems
-
+<!--
 # Certifications
 
 - Certification Name - Issuing Organization (MM/YYYY)
@@ -96,7 +96,7 @@ Relevant coursework:
 # Achievements
 
 - List any notable achievements, awards, or recognitions you have received for your technical contributions or projects.
-
+-->
 # Blog
 
 Check out my latest blog posts on [Medium](https://hrfprofessional.medium.com), where I share insights and experiences on various technical topics, showcasing my expertise and passion for the field.
