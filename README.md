@@ -9,9 +9,11 @@ Highly skilled and results-driven software engineer with a passion for creating 
 
 ## Programming Languages
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-1.8-orange.svg)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-7.x-blue.svg)](https://www.php.net/)
+[![SQL](https://img.shields.io/badge/SQL-Latest-blue.svg)](https://www.w3schools.com/sql/)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
 ## Web Technologies
 
