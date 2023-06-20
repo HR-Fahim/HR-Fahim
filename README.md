@@ -10,6 +10,7 @@ Highly skilled and results-driven software engineer with a passion for creating 
 ## Programming Languages
 
 [![Java](https://img.shields.io/badge/Java-1.8-orange.svg)](https://www.java.com/)
+[![C](https://img.shields.io/badge/C-Latest-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![PHP](https://img.shields.io/badge/PHP-7.x-blue.svg)](https://www.php.net/)
 [![SQL](https://img.shields.io/badge/SQL-Latest-blue.svg)](https://www.w3schools.com/sql/)
@@ -31,12 +32,13 @@ Highly skilled and results-driven software engineer with a passion for creating 
 [![MongoDB](https://img.shields.io/badge/MongoDB-5.x-green.svg)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-Latest-orange.svg)](https://firebase.google.com/)
 
-## Tools and Frameworks
+## Tools and IDEs
 
 [![GitHub](https://img.shields.io/badge/GitHub-Latest-black.svg)](https://github.com/)
 [![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-Latest-blueviolet.svg)](https://visualstudio.microsoft.com/vs/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2022-blue.svg)](https://www.eclipse.org/)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-Latest-green.svg)](https://developer.android.com/studio)
+[![XAMPP](https://img.shields.io/badge/XAMPP-Latest-orange.svg)](https://www.apachefriends.org/index.html)
 <!--[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple.svg)](https://getbootstrap.com/)
 [![Redux](https://img.shields.io/badge/Redux-4.x-purple.svg)](https://redux.js.org/)-->
 
