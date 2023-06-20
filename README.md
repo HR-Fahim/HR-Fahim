@@ -33,7 +33,6 @@ Highly skilled and results-driven software engineer with a passion for creating 
 
 ## Tools and Frameworks
 
-[![Git](https://img.shields.io/badge/Git-Latest-red.svg)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Latest-black.svg)](https://github.com/)
 [![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-Latest-blueviolet.svg)](https://visualstudio.microsoft.com/vs/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2022-blue.svg)](https://www.eclipse.org/)
