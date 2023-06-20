@@ -38,8 +38,8 @@ Highly skilled and results-driven software engineer with a passion for creating 
 [![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-Latest-blueviolet.svg)](https://visualstudio.microsoft.com/vs/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2022-blue.svg)](https://www.eclipse.org/)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-Latest-green.svg)](https://developer.android.com/studio)
-[![XAMPP](https://img.shields.io/badge/XAMPP-Latest-orange.svg)](https://www.apachefriends.org/index.html)
-<!--[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple.svg)](https://getbootstrap.com/)
+<!--[![XAMPP](https://img.shields.io/badge/XAMPP-Latest-orange.svg)](https://www.apachefriends.org/index.html)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple.svg)](https://getbootstrap.com/)
 [![Redux](https://img.shields.io/badge/Redux-4.x-purple.svg)](https://redux.js.org/)-->
 
 ## Version Control
