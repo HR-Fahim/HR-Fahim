@@ -61,7 +61,7 @@ Highly skilled and results-driven software engineer with a passion for creating 
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-Latest-blue.svg)](https://www.adobe.com/products/premiere.html)
 [![Cinema 4D](https://img.shields.io/badge/Cinema%204D-Latest-blue.svg)](https://www.maxon.net/en/cinema-4d/)
 
-# Projects
+<!--# Projects
 
 #### Project 1: [Project Name](https://github.com/yourname/project1)
 
@@ -73,7 +73,7 @@ Provide a detailed overview of the project, emphasizing its objective, noteworth
 
 #### Project 3: [Project Name](https://github.com/yourname/project3)
 
-Present an in-depth explanation of the project, focusing on its goals, standout features, and the technologies applied. Discuss the impact or significance of the project within its respective domain.
+Present an in-depth explanation of the project, focusing on its goals, standout features, and the technologies applied. Discuss the impact or significance of the project within its respective domain.-->
 
 # Education
 
