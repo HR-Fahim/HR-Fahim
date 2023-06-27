@@ -54,7 +54,7 @@ Highly skilled and results-driven software engineer with a passion for creating 
 [![Docker](https://img.shields.io/badge/Docker-Latest-blue.svg)](https://www.docker.com/)-->
 [![AWS](https://img.shields.io/badge/AWS-Latest-orange.svg)](https://aws.amazon.com/)
 
-## Extra Softwares
+## Other Softwares
 
 [![Blender](https://img.shields.io/badge/Blender-Latest-orange.svg)](https://www.blender.org/)
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-Latest-blue.svg)](https://www.adobe.com/products/aftereffects.html)
