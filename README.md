@@ -29,7 +29,7 @@ Highly skilled and results-driven software engineer with a passion for creating 
 ## Databases
 
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-blue.svg)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgrSQL-green.svg)](https://www.postgresql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgrSQL-Latest-blue.svg)](https://www.postgresql.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-Latest-orange.svg)](https://firebase.google.com/)
 
 ## Tools and IDEs
