@@ -106,3 +106,19 @@ Check out my latest blog posts on [Medium](https://hrfprofessional.medium.com), 
 
 Feel free to reach out to me via email at [hrfprofessional@gmail.com](mailto:hrfprofessional@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hr-fahim). Let's connect and discuss how we can collaborate to build extraordinary software solutions.
 
+## Website
+
+Visit my website for more details:<br> 
+🔗 [Portfolio Website](https://hr-fahim.github.io)
+
+On my website, you can:
+
+- Explore my portfolio of projects.
+- Read my latest blog posts.
+- Learn about my skills and experience.
+- Get in touch with me for collaboration or inquiries.
+
+Feel free to explore the different sections and get to know more about my work. Don't hesitate to reach out if you have any questions or if there's anything I can assist you with.
+
+Thank you!
+
