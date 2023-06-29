@@ -25,6 +25,8 @@ Highly skilled and results-driven software engineer with a passion for creating 
 ## Frameworks
 
 [![Django](https://img.shields.io/badge/Django-3.2-blueviolet.svg)](https://www.djangoproject.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-8.x-red.svg)](https://laravel.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-green.svg)](https://spring.io/projects/spring-boot)
 
 ## Databases
 
