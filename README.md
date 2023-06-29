@@ -53,8 +53,8 @@ Highly skilled and results-driven software engineer with a passion for creating 
 
 <!--[![Jest](https://img.shields.io/badge/Jest-27-green.svg)](https://jestjs.io/)
 [![Enzyme](https://img.shields.io/badge/Enzyme-3.x-yellowgreen.svg)](https://enzymejs.github.io/enzyme/)
-[![Docker](https://img.shields.io/badge/Docker-Latest-blue.svg)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-Latest-orange.svg)](https://aws.amazon.com/)-->
+[![Docker](https://img.shields.io/badge/Docker-Latest-blue.svg)](https://www.docker.com/)-->
+[![AWS](https://img.shields.io/badge/AWS-Latest-orange.svg)](https://aws.amazon.com/)
 [![Postman](https://img.shields.io/badge/Postman-Latest-orange.svg)](https://www.postman.com/)
 
 ## Other Software
