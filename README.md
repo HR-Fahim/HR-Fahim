@@ -88,7 +88,7 @@ Relevant coursework:
 
 - Data Structures
 - Algorithms
-- Web Development
+- Full Stack Web Development
 - Database Systems
 <!--
 # Certifications
