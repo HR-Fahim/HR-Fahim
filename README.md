@@ -90,7 +90,7 @@ Relevant coursework:
 - Algorithms
 - Full Stack Web Development
 - Database Systems
-- Design Pattern
+- Design Patterns
 - Software Architechture
 <!--
 # Certifications
