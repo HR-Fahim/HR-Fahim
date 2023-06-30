@@ -91,7 +91,8 @@ Relevant coursework:
 - Full Stack Web Development
 - Database Systems
 - Design Patterns
-- Software Architechture
+- Software Models
+- Software Architechtures
 <!--
 # Certifications
 
