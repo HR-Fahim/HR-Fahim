@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahim-blue)](https://www.linkedin.com/in/hr-fahim)
 [![Twitter](https://img.shields.io/badge/Twitter-Fahim-blue)](https://twitter.com/Hr_Fahim_)
 
-Highly skilled and results-driven software engineer with a passion for creating innovative web applications. I excel in developing efficient and scalable solutions to complex problems, utilizing my expertise in various programming languages and cutting-edge technologies. With a keen eye for detail and a commitment to delivering high-quality code, I consistently strive for excellence in every project.
+Highly skilled and results-driven software engineer with a passion for creating innovative web applications. I excel in developing efficient and scalable solutions to complex problems, utilizing my expertise in various programming languages and cutting-edge technologies. With a keen eye for detail and a commitment to delivering high-quality code, I consistently strive for excellence in every project. ❤️
 
 # Skills
 
