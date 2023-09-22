@@ -60,7 +60,8 @@ Relevant coursework:
 
 [![Java](https://img.shields.io/badge/Java-1.8-orange.svg)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-Latest-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C/C++](https://img.shields.io/badge/C/C++-Latest-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Fortran](https://img.shields.io/badge/Fortran-2008-orange.svg)](https://en.wikipedia.org/wiki/Fortran)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![PHP](https://img.shields.io/badge/PHP-7.x-blue.svg)](https://www.php.net/)
 [![SQL](https://img.shields.io/badge/SQL-Latest-blue.svg)](https://www.w3schools.com/sql/)
@@ -92,6 +93,7 @@ Relevant coursework:
 [![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-Latest-blueviolet.svg)](https://visualstudio.microsoft.com/vs/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2022-blue.svg)](https://www.eclipse.org/)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-Latest-green.svg)](https://developer.android.com/studio)
+[![Codeblocks](https://img.shields.io/badge/Codeblocks-latest-blue.svg)](https://www.codeblocks.org/)
 <!--[![XAMPP](https://img.shields.io/badge/XAMPP-Latest-orange.svg)](https://www.apachefriends.org/index.html)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple.svg)](https://getbootstrap.com/)
 [![Redux](https://img.shields.io/badge/Redux-4.x-purple.svg)](https://redux.js.org/)-->
