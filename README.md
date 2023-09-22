@@ -105,7 +105,7 @@ Relevant coursework:
 [![Git](https://img.shields.io/badge/Git-Latest-red.svg)](https://git-scm.com/)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-Latest-blue.svg)](https://bitbucket.org/)
 [![GitLab](https://img.shields.io/badge/GitLab-Latest-orange.svg)](https://about.gitlab.com/)
-[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-Latest-blue.svg)](https://azure.microsoft.com/en-us/services/devops/)
+[![Azure](https://img.shields.io/badge/Azure-Latest-blue.svg)](https://azure.microsoft.com/en-us/services/devops/)
 
 ## Testing and Deployment
 
