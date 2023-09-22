@@ -6,6 +6,8 @@ A software engineer with a deep passion for data science and machine learning. I
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-Fahim-brightgreen)](https://www.hackerrank.com/hrfprofessional)
 <!--[![Twitter](https://img.shields.io/badge/Twitter-Fahim-blue)](https://twitter.com/Hr_Fahim_)-->
 
+# Profile Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HR-Fahim&show=prs_merged_percentage&rank_icon=github&theme=dark" height="200">
 </div>
