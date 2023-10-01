@@ -12,7 +12,8 @@ A software engineer with a deep passion for data science and machine learning. I
   <img src="https://github-readme-stats.vercel.app/api?username=HR-Fahim&show=prs_merged_percentage&rank_icon=github&theme=dark" height="200">
 </div>
 [![Habibur Rahaman Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HR-Fahim&show=prs_merged_percentage&rank_icon=github&theme=dark)](https://github.com/HR-Fahim/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HR-Fahim&theme=dark&layout=donut)](https://github.com/HR-Fahim/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HR-Fahim&theme=dark&layout=donut)](https://github.com/HR-Fahim/github-readme-stats)
+-->
 
 # Education
 
