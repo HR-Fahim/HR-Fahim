@@ -4,6 +4,11 @@ A software engineer with a deep passion for data science and machine learning. I
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahim-blue)](https://www.linkedin.com/in/hr-fahim)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-Fahim-brightgreen)](https://www.hackerrank.com/hrfprofessional)
+
+![Metrics](https://metrics.lecoq.io/HR-Fahim?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hr-fahim&theme=react-dark)](https://github.com/hr-fahim/github-readme-activity-graph)
+
 <!--[![Twitter](https://img.shields.io/badge/Twitter-Fahim-blue)](https://twitter.com/Hr_Fahim_)
 
 # Profile Stats
@@ -45,84 +50,110 @@ Relevant coursework:
 # Achievements
 
 - List any notable achievements, awards, or recognitions you have received for your technical contributions or projects.
--->
 
+<div align="center">-->
+  
 # Skill Set
+<br>
 
-## Machine Learning
+### ⦿ Programming Languages
 
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24-blue.svg)](https://scikit-learn.org/stable/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.x-red.svg)](https://pytorch.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.x-blue.svg)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.x-blue.svg)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-blue.svg)](https://matplotlib.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Latest-orange.svg)](https://jupyter.org/)
-
-## Programming Languages
-
-[![Java](https://img.shields.io/badge/Java-1.8-orange.svg)](https://www.java.com/)
+<!--[![Java](https://img.shields.io/badge/Java-1.8-orange.svg)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![C/C++](https://img.shields.io/badge/C/C++-Latest-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Fortran](https://img.shields.io/badge/Fortran-2008-orange.svg)](https://en.wikipedia.org/wiki/Fortran)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![PHP](https://img.shields.io/badge/PHP-7.x-blue.svg)](https://www.php.net/)
-[![SQL](https://img.shields.io/badge/SQL-Latest-blue.svg)](https://www.w3schools.com/sql/)
+[![SQL](https://img.shields.io/badge/SQL-Latest-blue.svg)](https://www.w3schools.com/sql/)-->
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,fortran,javascript,php&theme=dark)](https://skillicons.dev)
 
-## Web Technologies
+### ⦿ Machine Learning
 
-[![HTML5](https://img.shields.io/badge/HTML5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+<!--[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24-blue.svg)](https://scikit-learn.org/stable/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.x-red.svg)](https://pytorch.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.x-blue.svg)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.x-blue.svg)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-blue.svg)](https://matplotlib.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Latest-orange.svg)](https://jupyter.org/)-->
+[![My Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
+<img height="48" width="48" src="https://cdn.simpleicons.org/scikitlearn" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/pytorch" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/pandas/5DADE2" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/numpy" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/jupyter" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/googlecolab" />
+
+### ⦿ Web Technologies
+
+<!--[![HTML5](https://img.shields.io/badge/HTML5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![React.js](https://img.shields.io/badge/React.js-17-green.svg)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-Latest-green.svg)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-Latest-green.svg)](https://nodejs.org/)-->
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark)](https://skillicons.dev)
 
-## Frameworks
+### ⦿ Frameworks
 
-[![Django](https://img.shields.io/badge/Django-3.2-blueviolet.svg)](https://www.djangoproject.com/)
+<!--[![Django](https://img.shields.io/badge/Django-3.2-blueviolet.svg)](https://www.djangoproject.com/)
 [![Laravel](https://img.shields.io/badge/Laravel-8.x-red.svg)](https://laravel.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-green.svg)](https://spring.io/projects/spring-boot)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-green.svg)](https://spring.io/projects/spring-boot)-->
+[![My Skills](https://skillicons.dev/icons?i=django,laravel,spring&theme=dark)](https://skillicons.dev)
 
-## Databases
+### ⦿ Databases
 
-[![MySQL](https://img.shields.io/badge/MySQL-8.x-blue.svg)](https://www.mysql.com/)
+<!--[![MySQL](https://img.shields.io/badge/MySQL-8.x-blue.svg)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-blue.svg)](https://www.postgresql.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-Latest-orange.svg)](https://firebase.google.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green.svg)](https://www.mongodb.com/)
-[![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-Latest-yellow.svg)](https://aws.amazon.com/rds/)
+[![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-Latest-yellow.svg)](https://aws.amazon.com/rds/)-->
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb,aws&theme=dark)](https://skillicons.dev)
 
-## Tools and IDEs
+### ⦿ Tools and IDEs
 
-[![GitHub](https://img.shields.io/badge/GitHub-Latest-black.svg)](https://github.com/)
+<!--[![GitHub](https://img.shields.io/badge/GitHub-Latest-black.svg)](https://github.com/)
 [![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-Latest-blueviolet.svg)](https://visualstudio.microsoft.com/vs/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2022-blue.svg)](https://www.eclipse.org/)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-Latest-green.svg)](https://developer.android.com/studio)
 [![Codeblocks](https://img.shields.io/badge/Codeblocks-latest-blue.svg)](https://www.codeblocks.org/)
-<!--[![XAMPP](https://img.shields.io/badge/XAMPP-Latest-orange.svg)](https://www.apachefriends.org/index.html)
+[![XAMPP](https://img.shields.io/badge/XAMPP-Latest-orange.svg)](https://www.apachefriends.org/index.html)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple.svg)](https://getbootstrap.com/)
 [![Redux](https://img.shields.io/badge/Redux-4.x-purple.svg)](https://redux.js.org/)-->
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,arduino,androidstudio&theme=dark)](https://skillicons.dev)
+<img height="48" width="48" src="https://cdn.simpleicons.org/clion/28B463" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/xampp" />
 
-## Version Control
+### ⦿ Version Control
 
-[![Git](https://img.shields.io/badge/Git-Latest-red.svg)](https://git-scm.com/)
+<!--[![Git](https://img.shields.io/badge/Git-Latest-red.svg)](https://git-scm.com/)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-Latest-blue.svg)](https://bitbucket.org/)
 [![GitLab](https://img.shields.io/badge/GitLab-Latest-orange.svg)](https://about.gitlab.com/)
-[![Azure](https://img.shields.io/badge/Azure-Latest-blue.svg)](https://azure.microsoft.com/en-us/services/devops/)
+[![Azure](https://img.shields.io/badge/Azure-Latest-blue.svg)](https://azure.microsoft.com/en-us/services/devops/)-->
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,azure&theme=dark)](https://skillicons.dev)
+<img height="48" width="48" src="https://cdn.simpleicons.org/bitbucket" />
 
-## Testing and Deployment
+### ⦿ Testing and Deployment
 
 <!--[![Jest](https://img.shields.io/badge/Jest-27-green.svg)](https://jestjs.io/)
 [![Enzyme](https://img.shields.io/badge/Enzyme-3.x-yellowgreen.svg)](https://enzymejs.github.io/enzyme/)
-[![Docker](https://img.shields.io/badge/Docker-Latest-blue.svg)](https://www.docker.com/)-->
+[![Docker](https://img.shields.io/badge/Docker-Latest-blue.svg)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-Latest-orange.svg)](https://aws.amazon.com/)
 [![Postman](https://img.shields.io/badge/Postman-Latest-orange.svg)](https://www.postman.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-Latest-red.svg)](https://www.jenkins.io/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-Latest-red.svg)](https://www.jenkins.io/)-->
+[![My Skills](https://skillicons.dev/icons?i=postman,jenkins,heroku&theme=dark)](https://skillicons.dev)
 
-<!--## Other Software
+### ⦿ Other Tools
 
-[![Blender](https://img.shields.io/badge/Blender-Latest-orange.svg)](https://www.blender.org/)
+<!--[![Blender](https://img.shields.io/badge/Blender-Latest-orange.svg)](https://www.blender.org/)
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-Latest-blue.svg)](https://www.adobe.com/products/aftereffects.html)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-Latest-blue.svg)](https://www.adobe.com/products/premiere.html)
 [![Cinema 4D](https://img.shields.io/badge/Cinema%204D-Latest-blue.svg)](https://www.maxon.net/en/cinema-4d/)-->
+[![My Skills](https://skillicons.dev/icons?i=blender,autocad,ps&theme=dark)](https://skillicons.dev)
+<img height="48" width="48" src="https://cdn.simpleicons.org/adobepremierepro" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/adobelightroom" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/microsoftword" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/microsoftexcel" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/microsoftpowerpoint" />
+
 
 <!--# Projects
 
@@ -136,7 +167,9 @@ Provide a detailed overview of the project, emphasizing its objective, noteworth
 
 #### Project 3: [Project Name](https://github.com/yourname/project3)
 
-Present an in-depth explanation of the project, focusing on its goals, standout features, and the technologies applied. Discuss the impact or significance of the project within its respective domain.-->
+Present an in-depth explanation of the project, focusing on its goals, standout features, and the technologies applied. Discuss the impact or significance of the project within its respective domain.
+</div>-->
+<br>
 
 # Industry Based Concepts
 
