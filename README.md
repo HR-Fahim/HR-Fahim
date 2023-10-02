@@ -54,7 +54,6 @@ Relevant coursework:
 <div align="center">-->
   
 # Skill Set
-<br>
 
 ### ⦿ Programming Languages
 
@@ -169,7 +168,6 @@ Provide a detailed overview of the project, emphasizing its objective, noteworth
 
 Present an in-depth explanation of the project, focusing on its goals, standout features, and the technologies applied. Discuss the impact or significance of the project within its respective domain.
 </div>-->
-<br>
 
 # Industry Based Concepts
 
