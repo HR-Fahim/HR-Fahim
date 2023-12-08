@@ -173,6 +173,10 @@ Present an in-depth explanation of the project, focusing on its goals, standout 
 
 - **Waterfall Methodologies**: Familiar with the Waterfall software development process and its structured approach.
 
+- **Concepts of Programming Language and Compiler Design**: Data types, control flow, functions, object-oriented programming concepts, and compiler design paradigms.
+
+- **Computer Architecture (ISA and MIPS Instruction Set)**: Familiar with Instruction Set Architecture (ISA) and MIPS architecture.
+
 - **Search Engine Optimization (SEO)**: Knowledgeable in optimizing web content for better search engine visibility.
 
 - **Object-Oriented Programming (OOP)**: Skilled in writing clean, modular code using OOP principles.
@@ -203,9 +207,9 @@ Present an in-depth explanation of the project, focusing on its goals, standout 
 
 - **Web Automation**: Capable of automating repetitive web tasks, improving efficiency.
 
-- **GitLab CI/CD Pipelines**: Experienced in setting up continuous integration and continuous deployment pipelines.
+- **CI/CD Pipelines**: Experienced in setting up continuous integration and continuous deployment pipelines.
 
-- **ISA and MIPS Instruction Set**: Familiar with Instruction Set Architecture (ISA) and MIPS architecture.
+- **Data Communication & Network**: Fundamentals of data transmission, communication protocols, and network architectures.
 
 - **User Experience (UX)**: Prioritize creating excellent user experiences in software and web applications.
 
