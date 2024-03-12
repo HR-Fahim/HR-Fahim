@@ -1,6 +1,6 @@
 # About Me
 
-A software engineer with a deep passion for data science and machine learning. I excel in creating innovative web applications while leveraging my expertise in various programming languages and cutting-edge technologies. My primary focus is on developing efficient and scalable solutions to complex problems. With a keen eye for detail and a commitment to delivering high-quality code, I consistently strive for excellence in every project, particularly those that involve data analysis, predictive modeling, and building intelligent systems.
+A software engineer with a deep passion for Data Science. I excel in creating innovative web applications while leveraging my expertise in various programming languages and cutting-edge technologies. My primary focus is on developing efficient and scalable solutions to complex problems. With a keen eye for detail and a commitment to delivering high-quality code, I consistently strive for excellence in every project, particularly those that involve data analysis, predictive modeling using ML and DL algorithms, and building intelligent systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahim-blue)](https://www.linkedin.com/in/hr-fahim)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-Fahim-orange)](https://stackoverflow.com/users/22147874/habibur-rahaman-fahim)
