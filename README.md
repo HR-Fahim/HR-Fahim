@@ -54,104 +54,159 @@ Relevant coursework:
   
 # Skill Set
 
-### ⦿ Programming Languages
-
-<!--[![Java](https://img.shields.io/badge/Java-1.8-orange.svg)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![C/C++](https://img.shields.io/badge/C/C++-Latest-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Fortran](https://img.shields.io/badge/Fortran-2008-orange.svg)](https://en.wikipedia.org/wiki/Fortran)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/PHP-7.x-blue.svg)](https://www.php.net/)
-[![SQL](https://img.shields.io/badge/SQL-Latest-blue.svg)](https://www.w3schools.com/sql/)-->
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,fortran,javascript,php&theme=dark)](https://skillicons.dev)
-
-### ⦿ Machine Learning
-
-<!--[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24-blue.svg)](https://scikit-learn.org/stable/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.x-red.svg)](https://pytorch.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.x-blue.svg)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.x-blue.svg)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-blue.svg)](https://matplotlib.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Latest-orange.svg)](https://jupyter.org/)-->
-[![My Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
-<img height="48" width="48" src="https://cdn.simpleicons.org/scikitlearn" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/pytorch" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/pandas/5DADE2" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/numpy" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/jupyter" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/googlecolab" />
-
-### ⦿ Web Technologies
-
-<!--[![HTML5](https://img.shields.io/badge/HTML5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React.js](https://img.shields.io/badge/React.js-17-green.svg)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-Latest-green.svg)](https://nodejs.org/)-->
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark)](https://skillicons.dev)
-
-### ⦿ Frameworks
-
-<!--[![Django](https://img.shields.io/badge/Django-3.2-blueviolet.svg)](https://www.djangoproject.com/)
-[![Laravel](https://img.shields.io/badge/Laravel-8.x-red.svg)](https://laravel.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-green.svg)](https://spring.io/projects/spring-boot)-->
-[![My Skills](https://skillicons.dev/icons?i=django,laravel,spring&theme=dark)](https://skillicons.dev)
-
-### ⦿ Databases
-
-<!--[![MySQL](https://img.shields.io/badge/MySQL-8.x-blue.svg)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-blue.svg)](https://www.postgresql.org/)
-[![Firebase](https://img.shields.io/badge/Firebase-Latest-orange.svg)](https://firebase.google.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green.svg)](https://www.mongodb.com/)
-[![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-Latest-yellow.svg)](https://aws.amazon.com/rds/)-->
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb,aws&theme=dark)](https://skillicons.dev)
-
-### ⦿ Tools and IDEs
-
-<!--[![GitHub](https://img.shields.io/badge/GitHub-Latest-black.svg)](https://github.com/)
-[![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-Latest-blueviolet.svg)](https://visualstudio.microsoft.com/vs/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-2022-blue.svg)](https://www.eclipse.org/)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-Latest-green.svg)](https://developer.android.com/studio)
-[![Codeblocks](https://img.shields.io/badge/Codeblocks-latest-blue.svg)](https://www.codeblocks.org/)
-[![XAMPP](https://img.shields.io/badge/XAMPP-Latest-orange.svg)](https://www.apachefriends.org/index.html)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple.svg)](https://getbootstrap.com/)
-[![Redux](https://img.shields.io/badge/Redux-4.x-purple.svg)](https://redux.js.org/)-->
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,arduino,androidstudio&theme=dark)](https://skillicons.dev)
-<img height="48" width="48" src="https://cdn.simpleicons.org/clion/28B463" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/xampp" />
-
-### ⦿ Version Control
-
-<!--[![Git](https://img.shields.io/badge/Git-Latest-red.svg)](https://git-scm.com/)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-Latest-blue.svg)](https://bitbucket.org/)
-[![GitLab](https://img.shields.io/badge/GitLab-Latest-orange.svg)](https://about.gitlab.com/)
-[![Azure](https://img.shields.io/badge/Azure-Latest-blue.svg)](https://azure.microsoft.com/en-us/services/devops/)-->
-[![My Skills](https://skillicons.dev/icons?i=git,gitlab,azure&theme=dark)](https://skillicons.dev)
-<img height="48" width="48" src="https://cdn.simpleicons.org/bitbucket" />
-
-### ⦿ Testing and Deployment
-
-<!--[![Jest](https://img.shields.io/badge/Jest-27-green.svg)](https://jestjs.io/)
-[![Enzyme](https://img.shields.io/badge/Enzyme-3.x-yellowgreen.svg)](https://enzymejs.github.io/enzyme/)
-[![Docker](https://img.shields.io/badge/Docker-Latest-blue.svg)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-Latest-orange.svg)](https://aws.amazon.com/)
-[![Postman](https://img.shields.io/badge/Postman-Latest-orange.svg)](https://www.postman.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-Latest-red.svg)](https://www.jenkins.io/)-->
-[![My Skills](https://skillicons.dev/icons?i=postman,jenkins,heroku&theme=dark)](https://skillicons.dev)
-
-### ⦿ Other Tools
-
-<!--[![Blender](https://img.shields.io/badge/Blender-Latest-orange.svg)](https://www.blender.org/)
-[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-Latest-blue.svg)](https://www.adobe.com/products/aftereffects.html)
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-Latest-blue.svg)](https://www.adobe.com/products/premiere.html)
-[![Cinema 4D](https://img.shields.io/badge/Cinema%204D-Latest-blue.svg)](https://www.maxon.net/en/cinema-4d/)-->
-[![My Skills](https://skillicons.dev/icons?i=blender,autocad,ps&theme=dark)](https://skillicons.dev)
-<img height="48" width="48" src="https://cdn.simpleicons.org/adobepremierepro" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/adobelightroom" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/microsoftword" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/microsoftexcel" />
-<img height="48" width="48" src="https://cdn.simpleicons.org/microsoftpowerpoint" />
-
+<table>
+ <tr>
+  <th>Skill Set</th>
+  <th>Skills</th>
+ </tr>
+ <tr>
+  <td>Programming Languages</td>
+  <td>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  </td>
+ </tr>
+ <tr>
+  <td>Web Technologies</td>
+  <td>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+    <img src="https://img.shields.io/badge/REST%20APIs-0096D8?style=for-the-badge&logo=restapi&logoColor=white" alt="REST APIs">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  </td>
+ </tr>
+ <tr>
+  <td>Frameworks</td>
+  <td>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  </td>
+ </tr>
+ <tr>
+  <td>Databases</td>
+  <td>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/AWS%20RDS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS RDS">
+  </td>
+ </tr>
+ <tr>
+  <td>DevOps Tools</td>
+  <td>
+     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+     <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
+     <img src="https://img.shields.io/badge/Apache%20Server-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Server">
+     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  </td>
+ </tr>
+ <tr>
+  <td>Testing</td>
+  <td>
+     <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit">
+     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+     <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest">
+     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+     <img src="https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Newman">
+  </td>
+ </tr>
+ <tr>
+  <td>Version Control</td>
+  <td>
+     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+     <img src="https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white" alt="Git Bash">
+     <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+     <img src="https://img.shields.io/badge/Azure%20Repos-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure Repos">
+     <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
+  </td>
+ </tr>
+ <tr>
+  <td>ML/DL Libraries</td>
+  <td>
+     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+     <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+     <img src="https://img.shields.io/badge/Seaborn-4EAE53?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+     <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  </td>
+ </tr>
+ <tr>
+  <td>OS & Tools</td>
+  <td>
+     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+     <img src="https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=cli&logoColor=white" alt="CLI">
+     <img src="https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=terminal&logoColor=white" alt="Terminal">
+  </td>
+ </tr>
+ <tr>
+  <td>IDEs & Tools</td>
+  <td>
+     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+     <img src="https://img.shields.io/badge/VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VM VirtualBox">
+     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+     <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench">
+     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+     <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
+     <img src="https://img.shields.io/badge/Code%20Blocks-2B7489?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code Blocks">
+     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" alt="Eclipse IDE">
+     <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
+     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+     <img src="https://img.shields.io/badge/AutoCAD-CA1D42?style=for-the-badge&logo=autodesk-autocad&logoColor=white" alt="AutoCAD">
+     <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+     <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel">
+     <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word">
+     <img src="https://img.shields.io/badge/MS%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="MS Teams">
+  </td>
+ </tr>
+ <tr>
+  <td>Core Trails</td>
+  <td>
+     <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="Data Structures & Algorithms">
+     <img src="https://img.shields.io/badge/Database%20Management%20System%20(DBMS)-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="Database Management System (DBMS)">
+     <img src="https://img.shields.io/badge/Data%20Communications%20%26%20Networking-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="Data Communications & Networking">
+     <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20Deep%20Learning%20with%20Computer%20Vision%20(OpenCV)-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="Machine Learning & Deep Learning with Computer Vision (OpenCV)">
+     <img src="https://img.shields.io/badge/Probability%20%26%20Statistical%20Mathematics-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="Probability & Statistical Mathematics">
+  </td>
+ </tr>
+ <tr>
+  <td>Key Concepts</td>
+  <td>
+     <img src="https://img.shields.io/badge/Agile%20%26%20Waterfall%20Methodologies-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="Agile & Waterfall Methodologies">
+     <img src="https://img.shields.io/badge/Software%20Architectures%20%26%20Design%20Patterns-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="Software Architectures & Design Patterns">
+     <img src="https://img.shields.io/badge/Programming%20Paradigms%20(OOP%20%26%20ORM)-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="Programming Paradigms (OOP & ORM)">
+     <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Development%20%26%20Network%20Security%20Strategies-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="Full Stack Web Development & Network Security Strategies">
+     <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines%20%26%20Web%20Automation-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="CI/CD Pipelines & Web Automation">
+     <img src="https://img.shields.io/badge/User%20Experience%20(UX)-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="User Experience (UX)">
+     <img src="https://img.shields.io/badge/Search%20Engine%20Optimization%20(SEO)-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="Search Engine Optimization (SEO)">
+     <img src="https://img.shields.io/badge/Android%20Development-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="Android Development">
+     <img src="https://img.shields.io/badge/Computer%20Architecture%20%26%20Compiler%20Design-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="Computer Architecture & Compiler Design">
+  </td>
+ </tr>
+</table>
 
 <!--# Projects
 
