@@ -182,30 +182,6 @@ Relevant coursework:
      <img src="https://img.shields.io/badge/MS%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="MS Teams">
   </td>
  </tr>
- <tr>
-  <td>Core Trails</td>
-  <td>
-     <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="Data Structures & Algorithms">
-     <img src="https://img.shields.io/badge/Database%20Management%20System%20(DBMS)-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="Database Management System (DBMS)">
-     <img src="https://img.shields.io/badge/Data%20Communications%20%26%20Networking-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="Data Communications & Networking">
-     <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20Deep%20Learning%20with%20Computer%20Vision%20(OpenCV)-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="Machine Learning & Deep Learning with Computer Vision (OpenCV)">
-     <img src="https://img.shields.io/badge/Probability%20%26%20Statistical%20Mathematics-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="Probability & Statistical Mathematics">
-  </td>
- </tr>
- <tr>
-  <td>Key Concepts</td>
-  <td>
-     <img src="https://img.shields.io/badge/Agile%20%26%20Waterfall%20Methodologies-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="Agile & Waterfall Methodologies">
-     <img src="https://img.shields.io/badge/Software%20Architectures%20%26%20Design%20Patterns-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="Software Architectures & Design Patterns">
-     <img src="https://img.shields.io/badge/Programming%20Paradigms%20(OOP%20%26%20ORM)-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="Programming Paradigms (OOP & ORM)">
-     <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Development%20%26%20Network%20Security%20Strategies-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="Full Stack Web Development & Network Security Strategies">
-     <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines%20%26%20Web%20Automation-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="CI/CD Pipelines & Web Automation">
-     <img src="https://img.shields.io/badge/User%20Experience%20(UX)-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="User Experience (UX)">
-     <img src="https://img.shields.io/badge/Search%20Engine%20Optimization%20(SEO)-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="Search Engine Optimization (SEO)">
-     <img src="https://img.shields.io/badge/Android%20Development-003B57?style=for-the-badge&logo=datacamp&logoColor=white" alt="Android Development">
-     <img src="https://img.shields.io/badge/Computer%20Architecture%20%26%20Compiler%20Design-3943B7?style=for-the-badge&logo=datacamp&logoColor=white" alt="Computer Architecture & Compiler Design">
-  </td>
- </tr>
 </table>
 
 <!--# Projects
