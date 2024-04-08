@@ -81,6 +81,11 @@ Relevant coursework:
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  </td>
+ </tr>
+  <tr>
+  <td></td>
+  <td>
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JSON">
     <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
   </td>
@@ -93,6 +98,12 @@ Relevant coursework:
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express JS">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  </td>
+ </tr>
+ <tr>
+   <tr>
+  <td></td>
+  <td>
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </td>
  </tr>
@@ -146,6 +157,11 @@ Relevant coursework:
      <img src="https://img.shields.io/badge/Seaborn-4EAE53?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  </td>
+ </tr>
+  <tr>
+  <td></td>
+  <td>
      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
   </td>
@@ -166,16 +182,31 @@ Relevant coursework:
      <img src="https://img.shields.io/badge/VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VM VirtualBox">
      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
      <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench">
-     <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
+  </td>
+ </tr>
+  <tr>
+  <td></td>
+  <td>    
      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
      <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
      <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
      <img src="https://img.shields.io/badge/Code%20Blocks-2B7489?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code Blocks">
+     <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
+  </td>
+ </tr>
+  <tr>
+  <td></td>
+  <td>
      <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" alt="Eclipse IDE">
      <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit">
      <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio">
      <img src="https://img.shields.io/badge/AutoCAD-CA1D42?style=for-the-badge&logo=autodesk-autocad&logoColor=white" alt="AutoCAD">
-     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">    
+  </td>
+ </tr>
+  <tr>
+  <td></td>
+  <td>
      <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel">
      <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word">
      <img src="https://img.shields.io/badge/MS%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="MS Teams">
