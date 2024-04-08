@@ -232,47 +232,24 @@ Present an in-depth explanation of the project, focusing on its goals, standout 
 # Industry Based Concepts
 
 - **Design Patterns**: Proficient in applying design patterns to create robust and maintainable software solutions.
-
 - **Waterfall Methodologies**: Familiar with the Waterfall software development process and its structured approach.
-
 - **Concepts of Programming Language and Compiler Design**: Data types, control flow, functions, object-oriented programming concepts, and compiler design paradigms.
-
 - **Computer Architecture (ISA and MIPS Instruction Set)**: Familiar with Instruction Set Architecture (ISA) and MIPS architecture.
-
 - **Search Engine Optimization (SEO)**: Knowledgeable in optimizing web content for better search engine visibility.
-
 - **Object-Oriented Programming (OOP)**: Skilled in writing clean, modular code using OOP principles.
-
 - **Object Rational Mapping (ORM)**: Experienced in working with ORM systems to manage database interactions efficiently.
-
 - **Model-View-Controller (MVC)**: Adept at building applications following the MVC architectural pattern for separation of concerns.
-
 - **Data Analysis**: Proficient in extracting insights from data using statistical analysis and data visualization tools.
-
 - **Machine Learning**: Skilled in building machine learning models for predictive and classification tasks.
-
-<!--- **Python**: Experienced in using Python for data manipulation, analysis, and machine learning, utilizing libraries such as NumPy, pandas, and scikit-learn.-->
-
 - **Data Visualization**: Capable of creating informative and appealing data visualizations using tools like Matplotlib and Seaborn.
-
 - **Feature Engineering**: Proficient in transforming raw data into meaningful features to improve model performance.
-
 - **Model Evaluation**: Experienced in evaluating machine learning models, including cross-validation and hyperparameter tuning.
-
-<!--- **Deep Learning**: Familiar with deep learning concepts and frameworks such as TensorFlow and PyTorch.-->
-
 - **Data Preprocessing**: Skilled in handling missing data, scaling, and transforming features for better model compatibility.
-
 - **Database Management System (DBMS)**: Comfortable with designing, querying, and managing databases.
-
 - **Full Stack Web Development**: Proficient in both front-end and back-end technologies, creating end-to-end web solutions.
-
 - **Web Automation**: Capable of automating repetitive web tasks, improving efficiency.
-
 - **CI/CD Pipelines**: Experienced in setting up continuous integration and continuous deployment pipelines.
-
 - **Data Communication & Network**: Fundamentals of data transmission, communication protocols, and network architectures.
-
 - **User Experience (UX)**: Prioritize creating excellent user experiences in software and web applications.
 
 # Blog
