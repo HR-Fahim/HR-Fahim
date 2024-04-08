@@ -60,7 +60,7 @@ Relevant coursework:
   <th>Skills</th>
  </tr>
  <tr>
-  <td>Programming Languages</td>
+  <td><b>• Languages</b></td>
   <td>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -72,7 +72,7 @@ Relevant coursework:
   </td>
  </tr>
  <tr>
-  <td>Web Technologies</td>
+  <td><b>• Web Technologies</b></td>
   <td>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -91,7 +91,7 @@ Relevant coursework:
   </td>
  </tr>
  <tr>
-  <td>Frameworks</td>
+  <td><b>• Frameworks</b></td>
   <td>
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="Django">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
@@ -108,7 +108,7 @@ Relevant coursework:
   </td>
  </tr>
  <tr>
-  <td>Databases</td>
+  <td><b>• Databases</b></td>
   <td>
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -118,7 +118,7 @@ Relevant coursework:
   </td>
  </tr>
  <tr>
-  <td>DevOps Tools</td>
+  <td><b>• DevOps Tools</b></td>
   <td>
      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
@@ -128,7 +128,7 @@ Relevant coursework:
   </td>
  </tr>
  <tr>
-  <td>Testing</td>
+  <td><b>• Testing</b></td>
   <td>
      <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit">
      <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
@@ -138,7 +138,7 @@ Relevant coursework:
   </td>
  </tr>
  <tr>
-  <td>Version Control</td>
+  <td><b>• Version Control</b></td>
   <td>
      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -149,7 +149,7 @@ Relevant coursework:
   </td>
  </tr>
  <tr>
-  <td>ML/DL Libraries</td>
+  <td><b>• ML/DL Libraries</b></td>
   <td>
      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
@@ -167,7 +167,7 @@ Relevant coursework:
   </td>
  </tr>
  <tr>
-  <td>OS & Tools</td>
+  <td><b>• OS & Tools</b></td>
   <td>
      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
@@ -176,7 +176,7 @@ Relevant coursework:
   </td>
  </tr>
  <tr>
-  <td>IDEs & Tools</td>
+  <td><b>• IDEs & Tools</b></td>
   <td>
      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
      <img src="https://img.shields.io/badge/VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VM VirtualBox">
