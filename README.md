@@ -4,6 +4,8 @@ A software engineer with a deep passion for Data Science. I excel in creating in
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahim-blue)](https://www.linkedin.com/in/hr-fahim)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-Fahim-orange)](https://stackoverflow.com/users/22147874/habibur-rahaman-fahim)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Fahim-brightgreen)](https://www.hackerrank.com/profile/hrfprofessional)
+[![CodinGame](https://img.shields.io/badge/CodinGame-Fahim-yellow)](https://www.codingame.com/profile/c8c84893576b2425bb68230075c022182219883)
 <!--[![Hackerrank](https://img.shields.io/badge/Hackerrank-Fahim-brightgreen)](https://www.hackerrank.com/hrfprofessional)-->
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hr-fahim&theme=react-dark)](https://github.com/hr-fahim/github-readme-activity-graph)
