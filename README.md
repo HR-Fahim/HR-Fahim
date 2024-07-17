@@ -1,16 +1,16 @@
 ![image](https://github.com/user-attachments/assets/0c7f6396-18b3-4c8b-8d92-cbaf464fa19a)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hr-fahim">
-    <img src="https://img.shields.io/badge/LinkedIn-HR-blue" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/hr-fahim" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-HR-blue" alt="LinkedIn" style="vertical-align: middle;">
   </a>
   &nbsp;
-  <a href="https://www.hackerrank.com/profile/hrfprofessional">
-    <img src="https://img.shields.io/badge/HackerRank-HR-brightgreen" alt="HackerRank">
+  <a href="https://www.hackerrank.com/profile/hrfprofessional" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/HackerRank-HR-brightgreen" alt="HackerRank" style="vertical-align: middle;">
   </a>
   &nbsp;
-  <a href="https://www.codingame.com/profile/c8c84893576b2425bb68230075c022182219883">
-    <img src="https://img.shields.io/badge/CodinGame-HR-yellow" alt="CodinGame">
+  <a href="https://www.codingame.com/profile/c8c84893576b2425bb68230075c022182219883" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/CodinGame-HR-yellow" alt="CodinGame" style="vertical-align: middle;">
   </a>
 </div>
 
