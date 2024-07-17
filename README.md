@@ -47,9 +47,9 @@
   
 ### Relevant Coursework
 
-- *Data Communication & NetworkData Communication & Network*
 - *Data Structures and Algorithms with C++*
 - *Design and Analysis of Algorithms*
+- *Data Communication & Network*
 - *Discrete Mathematics*
 - *Machine Learning* 
 - *Microprocessor Interfacing & Embedded System*
