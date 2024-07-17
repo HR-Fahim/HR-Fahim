@@ -44,12 +44,14 @@
 ### Educational Certification
 
 - *BS Computer Science & Engineering - [North South University](http://www.northsouth.edu/)  (2019-2024)*
+  - <sub>*Major in Machine Learning & Deep Learning*</sub>
+  - <sub>*Minor in Data Communication & Distributed Networks*</sub>
   
 ### Relevant Coursework
 
+- *Data Communication & Distributed Networks*
 - *Data Structures and Algorithms with C++*
 - *Design and Analysis of Algorithms*
-- *Data Communication & Network*
 - *Discrete Mathematics*
 - *Machine Learning* 
 - *Microprocessor Interfacing & Embedded System*
