@@ -16,6 +16,10 @@
   <a href="https://www.kaggle.com/habiburrahamanfahim" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Kaggle-HR-blue" alt="Kaggle" style="vertical-align: middle;">
   </a>
+  &nbsp;
+  <a href="https://www.stopstalk.com/user/profile/hrfprofessional" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/StopStalk-HR-red" alt="StopStalk" style="vertical-align: middle;">
+  </a>
 </div>
 
 <!--A software engineer with a deep passion for Data Science. I excel in creating innovative web applications while leveraging my expertise in various programming languages and cutting-edge technologies. My primary focus is on developing efficient and scalable solutions to complex problems. With a keen eye for detail and a commitment to delivering high-quality code, I consistently strive for excellence in every project, particularly those that involve data analysis, predictive modeling using ML and DL algorithms, and building intelligent systems.
