@@ -45,7 +45,7 @@
   
 ### Areas of Interest & Research
 
-- *Web Backend & Data Engineering*
+- *Backend Engineering & MLOps*
 - *Machine Learning & Statistical Data Analysis*
 - *Deep Learning & Computer Vision*
 
