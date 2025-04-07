@@ -6,7 +6,7 @@
   </a>
   &nbsp;
   <a href="https://scholar.google.com/citations?user=GlMQvEQAAAAJ&hl=en&authuser=1" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue" alt="Google Scholar" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/G.%20Scholar-Profile-blue" alt="Google Scholar" style="vertical-align: middle;">
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/profile/hrfprofessional" style="text-decoration: none;">
