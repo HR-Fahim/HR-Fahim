@@ -2,23 +2,27 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hr-fahim" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-HR-blue" alt="LinkedIn" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn" style="vertical-align: middle;">
+  </a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?user=GlMQvEQAAAAJ&hl=en&authuser=1" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue" alt="Google Scholar" style="vertical-align: middle;">
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/profile/hrfprofessional" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/HackerRank-HR-brightgreen" alt="HackerRank" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen" alt="HackerRank" style="vertical-align: middle;">
   </a>
   &nbsp;
   <a href="https://www.codingame.com/profile/c8c84893576b2425bb68230075c022182219883" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/CodinGame-HR-yellow" alt="CodinGame" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/CodinGame-Profile-yellow" alt="CodinGame" style="vertical-align: middle;">
   </a>
   &nbsp;
   <a href="https://www.kaggle.com/habiburrahamanfahim" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Kaggle-HR-blue" alt="Kaggle" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue" alt="Kaggle" style="vertical-align: middle;">
   </a>
   &nbsp;
   <a href="https://www.stopstalk.com/user/profile/hrfprofessional" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/StopStalk-HR-red" alt="StopStalk" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/StopStalk-Profile-red" alt="StopStalk" style="vertical-align: middle;">
   </a>
 </div>
 
